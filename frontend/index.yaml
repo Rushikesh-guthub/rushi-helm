@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  sadir-frontend:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-15T10:03:20.588250677Z"
+    description: A Helm chart for Kubernetes
+    digest: a1e0718c2e0df086184952597a1e2892a53985a06c50333dfb1230ecef5b3bbd
+    name: sadir-frontend
+    type: application
+    urls:
+<<<<<<< HEAD
+    - https://github.com/Rushikesh-guthub/helm/sadir-frontend-0.1.0.tgz
+=======
+    - https://raw.githubusercontent.com/Rushikesh-guthub/helm/main/sadir-frontend-0.1.0.tgz
+>>>>>>> de33163b67e91d5af29996ca8386b6d56267acc1
+    version: 0.1.0
+generated: "2024-10-15T10:03:20.587527555Z"
